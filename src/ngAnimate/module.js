@@ -46,7 +46,7 @@
  * | {@link module:ngMessages#animations ngMessages}                                                          | add and remove (ng-active & ng-inactive)                                 |
  * | {@link module:ngMessages#animations ngMessage}                                                           | enter and leave                                                          |
  *
- * (More information can be found by visiting each the documentation associated with each directive.)
+ * (More information can be found by visiting the documentation associated with each directive.)
  *
  * ## CSS-based Animations
  *
